@@ -1,0 +1,10 @@
+City,Date,AQI_Category,Confidence,PM2.5_Value,Actual_AQI
+Islamabad,2024-11-29,Very Unhealthy,100.0%,165.97,4.9
+Islamabad,2024-11-30,Very Unhealthy,100.0%,131.71,4.9
+Islamabad,2024-12-01,Very Unhealthy,100.0%,129.33,5.0
+Karachi,2024-11-29,Very Unhealthy,100.0%,110.47,4.5
+Karachi,2024-11-30,Very Unhealthy,100.0%,114.55,4.9
+Karachi,2024-12-01,Very Unhealthy,100.0%,140.36,5.0
+Lahore,2024-11-29,Very Unhealthy,100.0%,600.18,5.0
+Lahore,2024-11-30,Very Unhealthy,100.0%,218.01,5.0
+Lahore,2024-12-01,Very Unhealthy,100.0%,198.41,5.0
