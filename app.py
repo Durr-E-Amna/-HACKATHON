@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-🏆 AWARD-WINNING STREAMLIT DASHBOARD 🏆
-Pakistan Air Quality Forecasting System
-Professional Dashboard with Enhanced UI/UX
-"""
 
 import streamlit as st
 import pandas as pd
@@ -2029,3 +2024,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
